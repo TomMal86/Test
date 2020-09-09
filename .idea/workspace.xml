@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55f8c30e-5743-4b80-a64c-b52045059e9f" name="Default Changelist" comment="" />
+    <list default="true" id="55f8c30e-5743-4b80-a64c-b52045059e9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cyvhfIxxGO2VcsJkVFxQCpR6Md" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +37,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.AutomationPracticeTest.dummyTest">
+  <component name="RunManager" selected="JUnit.GetResponse.testLogIn">
     <configuration name="AutomationPracticeTest.dummyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testy Selenium" />
       <option name="PACKAGE_NAME" value="" />
@@ -41,31 +50,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetResponse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testy Selenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest1" />
+      <option name="MAIN_CLASS_NAME" value="GetResponse" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest1.logOutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetResponse.testLogIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testy Selenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest1" />
-      <option name="METHOD_NAME" value="logOutTest" />
+      <option name="MAIN_CLASS_NAME" value="GetResponse" />
+      <option name="METHOD_NAME" value="testLogIn" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest1.registerSingleUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testy Selenium" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LoginTest1" />
-      <option name="METHOD_NAME" value="registerSingleUserTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GetResponse.testLogIn" />
+        <item itemvalue="JUnit.GetResponse" />
         <item itemvalue="JUnit.AutomationPracticeTest.dummyTest" />
         <item itemvalue="JUnit.LoginTest1.registerSingleUserTest2" />
         <item itemvalue="JUnit.LoginTest1" />
-        <item itemvalue="JUnit.LoginTest1.registerSingleUserTest" />
-        <item itemvalue="JUnit.LoginTest1.logOutTest" />
       </list>
     </recent_temporary>
   </component>
@@ -116,22 +124,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="163" key="GridCell.Tab.0.bottom" timestamp="1599663477193">
+    <state width="1322" height="163" key="GridCell.Tab.0.bottom" timestamp="1599681667781">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599663477193" />
-    <state width="1322" height="163" key="GridCell.Tab.0.center" timestamp="1599663477192">
+    <state width="1322" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599681667781" />
+    <state width="1322" height="163" key="GridCell.Tab.0.center" timestamp="1599681667780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599663477192" />
-    <state width="1322" height="163" key="GridCell.Tab.0.left" timestamp="1599663477192">
+    <state width="1322" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599681667780" />
+    <state width="1322" height="163" key="GridCell.Tab.0.left" timestamp="1599681667780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599663477192" />
-    <state width="1322" height="163" key="GridCell.Tab.0.right" timestamp="1599663477192">
+    <state width="1322" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599681667780" />
+    <state width="1322" height="163" key="GridCell.Tab.0.right" timestamp="1599681667780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599663477192" />
+    <state width="1322" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599681667780" />
     <state width="623" height="217" key="GridCell.Tab.1.bottom" timestamp="1591519095215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -152,5 +160,19 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599583315722" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/GetResponse.java</url>
+          <line>37</line>
+          <properties class="GetResponse" method="testLogIn">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
